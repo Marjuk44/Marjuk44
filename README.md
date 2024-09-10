@@ -1,4 +1,4 @@
--  Hello, I’m Marjuk Ahamed 🙋‍♂️
+### Hello, I’m Marjuk Ahamed 🙋‍♂️
 -  I’m interested in Tech industry and Data Analytics 📈
 -  I’m currently learning Power BI 🌱
 -  I’m looking to collaborate on a data analysis project 🙌

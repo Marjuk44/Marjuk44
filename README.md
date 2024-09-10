@@ -1,8 +1,8 @@
-## Hello, I’m Marjuk Ahamed 🙋‍♂️
+# Hello, I’m Marjuk Ahamed 🙋‍♂️
 -  I’m interested in Tech industry and Data Analytics 📈
--  I’m currently learning Power BI 🌱
--  I’m looking to collaborate on a data analysis project 🙌
--  How to reach me: linkedIn: https://www.linkedin.com/in/marjukahamed/ 📫
+-  Currently learning Power BI 🌱
+-  Looking to collaborate on a data analysis project 🙌
+-  Reach me through: linkedIn: https://www.linkedin.com/in/marjukahamed/ 📫
 -  Fun fact: I am a Manchester United fan :) 
 
 <!---
